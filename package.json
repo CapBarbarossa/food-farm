@@ -1,0 +1,25 @@
+{
+  "name": "food-farm",
+  "version": "0.0.1",
+  "description": "Node.js first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapBarbarossa/food-farm.git"
+  },
+  "author": "CapBarbarossa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapBarbarossa/food-farm/issues"
+  },
+  "homepage": "https://github.com/CapBarbarossa/food-farm#readme",
+  "dependencies": {
+    "slugify": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
